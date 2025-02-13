@@ -40,4 +40,4 @@
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kurt-Leopard&theme=gotham&hide_border=true&hide_title=false&area=true&custom_title=Contributions" alt="Kurt-Leopard's GitHub Activity Graph" width="100%" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kurt-Leopard&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Kurt-Leopard's Top Languages" />
-</p> can you more and design here
+</p>
